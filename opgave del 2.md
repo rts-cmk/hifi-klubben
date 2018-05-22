@@ -17,7 +17,7 @@ Derefter skal alle punkterne indsættes på **Github projekts** så progressione
 Der skal også udarbejdes **wireframes** for hvert område i administrationen. det skal tydeligt fremgå hvordan hvert administations panel forventes at blive sat op.
 Det er ikke nødvendigt med designforslag.
 
-Det er planen at der afsættes 5 dage til administrations delen af projektet, dvs regn med at det skal være færdigt fredag den 25/5.
+Det er planen at der afsættes 5 dage til administrations delen af projektet, dvs regn med at det skal være færdigt mandag den 28/5.
 
 
 
